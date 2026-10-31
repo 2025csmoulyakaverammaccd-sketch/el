@@ -1,16 +1,10 @@
-\# Git Lab Experiment 4
+\# Team Project
 
 
 
-\## Project Description
-
-This repository demonstrates GitHub collaboration.
+This repository demonstrates team collaboration using GitHub.
 
 
 
-\## Contact Information
-
-Name: Student B
-
-Email: studentb@example.com
+Team project status: Initial
 
