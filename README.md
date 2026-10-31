@@ -1,10 +1,5 @@
-\# Team Project
-
-
+# Team Project
 
 This repository demonstrates team collaboration using GitHub.
 
-
-
-Team project status: Signup feature completed
-
+Team project status: Login and signup features completed
